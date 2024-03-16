@@ -661,7 +661,7 @@ export default function FindDoctors() {
                 <div className={styles.tickBox}>
                   <div>
                     <i className="ion-checkmark-round"></i>
-                    <span>Get seen by 25M+ patients on Practo.com</span>
+                    <span>Get seen by 25M+ patients on Healthy India.com</span>
                   </div>
                 </div>
                 <div className={styles.tickBox}>
@@ -759,7 +759,7 @@ export default function FindDoctors() {
             <div className={styles.flex1}>
               <div>
                 <div className={styles.flex1Heading}>
-                  <h2>Download the Practo app</h2>
+                  <h2>Download the Healthy India app</h2>
                 </div>
                 <div className={styles.tickBox}>
                   <div>

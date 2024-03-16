@@ -73,8 +73,9 @@ const Navbarwrapper = () => {
 								}}
 							>
 								<img
-									src='https://www.practo.com/nav/9.5.10/consumer/images/practo.svg'
-									alt='practo_logo'
+									// src='https://www.practo.com/nav/9.5.10/consumer/images/practo.svg'
+									src='/logo.png'
+									alt='Healthy India_logo'
 									style={{
 										maxWidth: '108px',
 										maxHeight: '25px'
@@ -96,7 +97,7 @@ const Navbarwrapper = () => {
 							</Link>{' '}
 							<div className='prod' id='medicines'>
 								<div className='prod-title'> Medicines </div>{' '}
-								<div className='prod-sub'> Practo pharmacy </div>{' '}
+								<div className='prod-sub'> Healthy India pharmacy </div>{' '}
 							</div>{' '}
 							<div className='prod' id='lab_tests'>
 								<div className='prod-title'> Lab Tests </div>{' '}
@@ -173,7 +174,7 @@ const Navbarwrapper = () => {
 								>
 									<div className={style.u}>
 										<a className={style.nav} href='/'>
-											Practo prime <span className={style.new}> New </span>{' '}
+											Healthy India prime <span className={style.new}> New </span>{' '}
 										</a>{' '}
 									</div>{' '}
 									<div className={style.u}>
