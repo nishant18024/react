@@ -27,7 +27,7 @@ function App() {
 						<SearchbarWrapper>
 							<Searchbar />
 						</SearchbarWrapper>
-						<Banner bannerImg='https://www.practostatic.com/consumer-home/desktop/images/1597423628/practo_care_dweb_banner.png' />
+						<Banner bannerImg='/practo_care_dweb_banner.webp.png' />
 						<CardsWrapper />
 						<Consultdoctor />
 						<Appointment />
